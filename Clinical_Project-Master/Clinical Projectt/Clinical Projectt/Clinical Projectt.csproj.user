@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Uni\Clinical_Project-Master\Clinical Projectt\Clinical Projectt\Properties\PublishProfiles\ClickOnceProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="DoctorView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\DoctorLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\ReceptionistLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\RUButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SecretaryView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlBlank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlDays.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
